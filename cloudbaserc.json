@@ -1,0 +1,17 @@
+{
+    "envId": "cloudbase-baas-1ggw5jtjadfadcb9",
+    "framework": {
+        "plugins": {
+            "website": {
+                "use": "@cloudbase/framework-plugin-website",
+                "inputs": {
+                    "buildCommand": "npx vitepress build",
+                    "outputPath": ".vitepress/dist"
+                }
+            }
+        },
+        "name": "Vitepress0"
+    },
+    "functionRoot": "./functions",
+    "functions": []
+}

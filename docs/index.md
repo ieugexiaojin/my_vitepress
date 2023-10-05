@@ -1,0 +1,28 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "2022年ADA简讯"
+  text: ""
+  tagline: 一站式获得ADA前沿进展
+  actions:
+    - theme: brand
+      text: 让我们开始吧
+      link: /ADA 奖项/国家科学和卫生保健成就奖/Banting科学成就奖.md
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
+
+features:
+  - title: ADA奖项
+    details: 汇总ADA大会的各大奖项进展
+    link: /ADA 奖项/国家科学和卫生保健成就奖/Banting科学成就奖.md
+  - title: 疾病进展专题
+    details: 汇总糖尿病、肥胖、NAFLD等疾病专题进展
+    link: /疾病进展/肥胖专题/SURMOUNT-1-对当前肥胖治疗模式的启示.md
+  - title: 治疗进展
+    details: 汇总当前糖尿病药物进展研究
+    link: /治疗进展/肠促激素专题/度拉糖肽治疗2型糖尿病-T2D-青少年患者-AWARD-PEDS随机-安慰剂对照试验的结果.md
+---
+
